@@ -1,0 +1,756 @@
+GeoJSON_District,Matched_District,Score,Status
+morbi,,80,Unmatched
+ahmadabad,ahmedabad,89,Matched
+anand,anand,100,Matched
+devbhumi dwarka,,68,Unmatched
+jamnagar,jamnagar,100,Matched
+kachchh,,60,Unmatched
+bhavnagar,bhavnagar,100,Matched
+bharuch,,68,Unmatched
+surat,surat,100,Matched
+navsari,navsari,100,Matched
+valsad,valsad,100,Matched
+agar malwa,,80,Unmatched
+agra,agra,100,Matched
+ajmer,ajmer,100,Matched
+alappuzha,alapuzha,94,Matched
+aligarh,aligarh,100,Matched
+alirajpur,alirajpur,100,Matched
+almora,almora,100,Matched
+alwar,alwar,100,Matched
+ambedkar nagar,ambedkar nagar,100,Matched
+amethi,,75,Unmatched
+amroha,,73,Unmatched
+anugul,angul,91,Matched
+anuppur,anuppur,100,Matched
+aravalli,,77,Unmatched
+ashoknagar,ashoknagar,100,Matched
+auraiya,auraiya,100,Matched
+azamgarh,azamgarh,100,Matched
+budaun,,83,Unmatched
+bagalkote,bagalkote,100,Matched
+bageshwar,bageshwar,100,Matched
+baghpat,baghpat,100,Matched
+bahraich,bahraich,100,Matched
+balaghat,balaghat,100,Matched
+balangir,bolangir,88,Matched
+baleshwar,bageshwar,89,Matched
+ballari,ballari,100,Matched
+ballia,ballia,100,Matched
+balod,,73,Unmatched
+baloda bazar,,75,Unmatched
+balrampur,balrampur,100,Matched
+balrampur,balrampur,100,Matched
+banas kantha,banaskantha,96,Matched
+banda,banda,100,Matched
+banswara,banswara,100,Matched
+bara banki,barabanki,95,Matched
+bargarh,bargarh,100,Matched
+baran,baran,100,Matched
+bareilly,bareilly,100,Matched
+barmer,barmer,100,Matched
+barwani,barwani,100,Matched
+bastar,bastar,100,Matched
+basti,basti,100,Matched
+belagavi,,71,Unmatched
+bametara,,80,Unmatched
+bengaluru rural,bengaluru rural,100,Matched
+bangalore,,82,Unmatched
+betul,betul,100,Matched
+bhadohi,,77,Unmatched
+bhadrak,bhadrak,100,Matched
+bharatpur,bharatpur,100,Matched
+bhilwara,bhilwara,100,Matched
+bhind,bhind,100,Matched
+bhopal,bhopal,100,Matched
+bidar,bidar,100,Matched
+bijapur,bijapur,100,Matched
+bijnor,bijnor,100,Matched
+bikaner,bikaner,100,Matched
+bilaspur,bilaspur,100,Matched
+gaurela-pendra-marwahi,,72,Unmatched
+bilaspur,bilaspur,100,Matched
+bishnupur,,77,Unmatched
+bokaro,bokaro,100,Matched
+bulandshahr,bulandshahar,96,Matched
+bundi,bundi,100,Matched
+burhanpur,burhanpur,100,Matched
+central,central delhi,90,Matched
+chamarajanagara,chamarajanagar,97,Matched
+chamba,chamba,100,Matched
+champawat,champawat,100,Matched
+chandauli,chandauli,100,Matched
+chandel,chandel,100,Matched
+chandigarh,chandigarh,100,Matched
+chatra,chatra,100,Matched
+chhatarpur,chhatarpur,100,Matched
+chhindwara,chhindwara,100,Matched
+chota udaipur,udaipur,90,Matched
+chikkaballapura,chikaballapura,97,Matched
+chikkamagaluru,chikkamagaluru,100,Matched
+chitradurga,chitradurga,100,Matched
+chitrakoot,,75,Unmatched
+chittaurgarh,chittorgarh,87,Matched
+churachandpur,,80,Unmatched
+churu,churu,100,Matched
+cuttack,cuttack,100,Matched
+dohad,,72,Unmatched
+dakshina kannada,dakshina kannada,100,Matched
+daman,daman,100,Matched
+damoh,damoh,100,Matched
+the dangs,dangs,90,Matched
+dakshin bastar dantewada,bastar,90,Matched
+datia,datia,100,Matched
+dausa,dausa,100,Matched
+davanagere,davangere,95,Matched
+dehradun,dehradun,100,Matched
+deogarh,deogarh,100,Matched
+deoria,deoria,100,Matched
+dewas,dewas,100,Matched
+dhalai,dhalai,100,Matched
+dhamtari,dhamtari,100,Matched
+dhanbad,dhanbad,100,Matched
+dhar,dhar,100,Matched
+faizabad,faizabad,100,Matched
+deoghar,deoghar,100,Matched
+dharwad,dharwad,100,Matched
+dhenkanal,dhenkanal,100,Matched
+dhaulpur,,80,Unmatched
+tinsukia,tinsukia,100,Matched
+dindori,dindori,100,Matched
+dumka,dumka,100,Matched
+dungarpur,dungarpur,100,Matched
+durg,durg,100,Matched
+east,east champaran,90,Matched
+east district,,68,Unmatched
+east garo hills,east garo hills,100,Matched
+east khasi hills,east khasi hills,100,Matched
+east nimar,east garo hills,86,Matched
+ernakulam,ernakulam,100,Matched
+etah,etah,100,Matched
+etawah,etawah,100,Matched
+farrukhabad,farrukhabad,100,Matched
+fatehpur,fatehpur,100,Matched
+firozabad,firozabad,100,Matched
+gadag,gadag,100,Matched
+gajapati,gajapati,100,Matched
+ganjam,ganjam,100,Matched
+garhwa,garhwa,100,Matched
+gariaband,,80,Unmatched
+gautam buddha nagar,gautam buddha nagar,100,Matched
+ghazipur,ghazipur,100,Matched
+ghaziabad,ghaziabad,100,Matched
+gir somnath,,64,Unmatched
+giridih,giridih,100,Matched
+godda,godda,100,Matched
+nagaon,nagaon,100,Matched
+gomati,,62,Unmatched
+gonda,gonda,100,Matched
+gorakhpur,gorakhpur,100,Matched
+gumla,gumla,100,Matched
+guna,guna,100,Matched
+gwalior,gwalior,100,Matched
+hamirpur,hamirpur,100,Matched
+hamirpur,hamirpur,100,Matched
+hanumangarh,hanumangarh,100,Matched
+hapur,kolhapur,90,Matched
+harda,harda,100,Matched
+hardoi,hardoi,100,Matched
+hardwar,hardwar,100,Matched
+hassan,hassan,100,Matched
+hathras,,77,Unmatched
+haveri,haveri,100,Matched
+hazaribagh,hazaribag,95,Matched
+hoshangabad,hoshangabad,100,Matched
+idukki,idukki,100,Matched
+imphal west,imphal west,100,Matched
+indore,indore,100,Matched
+jabalpur,jabalpur,100,Matched
+jagatsinghapur,jagatsinghpur,96,Matched
+jaipur,jaipur,100,Matched
+jaisalmer,jaisalmer,100,Matched
+jajapur,jajpur,92,Matched
+jalaun,jalaun,100,Matched
+jalor,jalore,91,Matched
+jamtara,jamtara,100,Matched
+janjgir - champa,janjgir,90,Matched
+jashpur,jashpur,100,Matched
+jaunpur,jaunpur,100,Matched
+jhabua,jhabua,100,Matched
+jhalawar,jhalawar,100,Matched
+jhansi,jhansi,100,Matched
+jharsuguda,jharsuguda,100,Matched
+jhunjhunun,jhunjhunu,95,Matched
+jodhpur,jodhpur,100,Matched
+junagadh,junagadh,100,Matched
+kabeerdham,,68,Unmatched
+kalaburagi,,72,Unmatched
+kalahandi,kalahandi,100,Matched
+kamrup,kamrup (rural),90,Matched
+kandhamal,kandhamal,100,Matched
+kangra,kangra,100,Matched
+uttar bastar kanker,bastar,90,Matched
+kannauj,kannauj,100,Matched
+kannur,,83,Unmatched
+kanpur nagar,dadara & nagar haveli,86,Matched
+kanpur dehat,kanpur dehat,100,Matched
+karaikal,karaikal,100,Matched
+karauli,karauli,100,Matched
+kasaragod,kasargod,94,Matched
+kasganj,,75,Unmatched
+katni,katni,100,Matched
+kaushambi,kaushambi,100,Matched
+kendrapara,kendrapara,100,Matched
+kendujhar,,77,Unmatched
+kheri,kheri,100,Matched
+khordha,,80,Unmatched
+khowai,,67,Unmatched
+khunti,khunti,100,Matched
+ganganagar,sri ganganagar,95,Matched
+east jaintia hills,jaintia hills,95,Matched
+kodagu,kodagu,100,Matched
+kodarma,koderma,86,Matched
+kokrajhar,kokrajhar,100,Matched
+kolar,kolar,100,Matched
+kollam,kollam,100,Matched
+kondagaon,,82,Unmatched
+koppal,koppal,100,Matched
+koraput,koraput,100,Matched
+korba,korba,100,Matched
+koriya,koriya,100,Matched
+kota,kota,100,Matched
+kottayam,kottayam,100,Matched
+kozhikode,kozhikode,100,Matched
+kullu,kullu,100,Matched
+kushinagar,kushi nagar,95,Matched
+lakshadweep,lakshadweep,100,Matched
+lalitpur,lalitpur,100,Matched
+latehar,latehar,100,Matched
+lohardaga,lohardaga,100,Matched
+lucknow,lucknow,100,Matched
+mahasamund,mahasamund,100,Matched
+mahe,mahendragarh,90,Matched
+mahisagar,sagar,90,Matched
+mahoba,mahoba,100,Matched
+mainpuri,mainpuri,100,Matched
+malappuram,malappuram,100,Matched
+malkangiri,malkangiri,100,Matched
+mandya,mandya,100,Matched
+mandi,mandi,100,Matched
+mandla,mandla,100,Matched
+mandsaur,mandsaur,100,Matched
+mathura,mathura,100,Matched
+mau,mau,100,Matched
+mayurbhanj,mayurbhanj,100,Matched
+meerut,meerut,100,Matched
+mirzapur,mirzapur,100,Matched
+moradabad,moradabad,100,Matched
+morena,morena,100,Matched
+mungeli,,72,Unmatched
+muzaffarnagar,muzaffarnagar,100,Matched
+mysuru,mysuru,100,Matched
+nabarangapur,baran,90,Matched
+nagaur,nagaur,100,Matched
+nainital,nainital,100,Matched
+narayanpur,narayanpur,100,Matched
+narmada,narmada,100,Matched
+narsimhapur,,82,Unmatched
+nayagarh,nayagarh,100,Matched
+new delhi,new delhi,100,Matched
+nicobars,nicobar,93,Matched
+neemuch,neemuch,100,Matched
+north,north & middle andaman,90,Matched
+north  district,north goa,86,Matched
+north  & middle andaman,north & middle andaman,98,Matched
+north east,north east delhi,90,Matched
+north goa,north goa,100,Matched
+north tripura,north tripura,100,Matched
+north west,north west delhi,90,Matched
+nuapada,,77,Unmatched
+pakur,pakur,100,Matched
+palakkad,palakkad,100,Matched
+palamu,palamu,100,Matched
+pali,pali,100,Matched
+panch mahals,panchmahal,91,Matched
+panna,panna,100,Matched
+pashchimi singhbhum,,69,Unmatched
+pathanamthitta,pathanamthitta,100,Matched
+garhwal,garhwa,92,Matched
+pilibhit,pilibhit,100,Matched
+pratapgarh,pratapgarh,100,Matched
+pratapgarh,pratapgarh,100,Matched
+puducherry,puducherry,100,Matched
+purbi singhbhum,,77,Unmatched
+puri,puri,100,Matched
+rae bareli,,82,Unmatched
+raichur,raichur,100,Matched
+raigarh,raigarh,100,Matched
+raipur,raipur,100,Matched
+raisen,raisen,100,Matched
+rajnandgaon,rajnandgaon,100,Matched
+rajgarh,rajgarh,100,Matched
+rajsamand,rajsamand,100,Matched
+ramgarh,ramgarh,100,Matched
+ramanagara,ramanagara,100,Matched
+rampur,rampur,100,Matched
+ranchi,ranchi,100,Matched
+ratlam,ratlam,100,Matched
+rayagada,rayagada,100,Matched
+rewa,rewa,100,Matched
+rudraprayag,rudraprayag,100,Matched
+sagar,sagar,100,Matched
+saharanpur,saharanpur,100,Matched
+sahibganj,sahibganj,100,Matched
+saiha,saiha,100,Matched
+sambalpur,sambalpur,100,Matched
+sambhal,,83,Unmatched
+sant kabir nagar,sant kabir nagar,100,Matched
+saraikela-kharsawan,seraikela-kharsawan,95,Matched
+satna,satna,100,Matched
+sawai madhopur,sawai madhopur,100,Matched
+sehore,sehore,100,Matched
+seoni,seoni,100,Matched
+sipahijala,,80,Unmatched
+shahdara,,80,Unmatched
+shahdol,shahdol,100,Matched
+shahjahanpur,shahjahanpur,100,Matched
+shajapur,shajapur,100,Matched
+shamli,,77,Unmatched
+sheopur,sheopur,100,Matched
+shimla,shimla,100,Matched
+shivamogga,shivamogga,100,Matched
+shivpuri,shivpuri,100,Matched
+shrawasti,shrawasti nagar,90,Matched
+siddharthnagar,siddharth nagar,97,Matched
+sidhi,sidhi,100,Matched
+sikar,sikar,100,Matched
+simdega,simdega,100,Matched
+singrauli,singrauli,100,Matched
+sirmaur,sirmaur,100,Matched
+sirohi,sirohi,100,Matched
+sitapur,sitapur,100,Matched
+solan,solan,100,Matched
+sonbhadra,sonbhadra,100,Matched
+south,south 24 parganas,90,Matched
+south district,south goa,86,Matched
+south andaman,south andaman,100,Matched
+south garo hills,south garo hills,100,Matched
+south goa,south goa,100,Matched
+south tripura,south tripura,100,Matched
+south west,south west delhi,90,Matched
+sonepur,sonepur,100,Matched
+sukma,,72,Unmatched
+sultanpur,sultanpur,100,Matched
+sundargarh,sundargarh,100,Matched
+surajpur,,80,Unmatched
+surguja,surguja,100,Matched
+tapi,tapi,100,Matched
+tehri garhwal,garhwal tehri,95,Matched
+thiruvananthapuram,thiruvananthapuram,100,Matched
+thrissur,thrissur,100,Matched
+tikamgarh,tikamgarh,100,Matched
+tonk,tonk,100,Matched
+tumakuru,tumakuru,100,Matched
+udaipur,udaipur,100,Matched
+baksa,baksa,100,Matched
+udham singh nagar,udham singh nagar,100,Matched
+udupi,udupi,100,Matched
+ujjain,ujjain,100,Matched
+umaria,umaria,100,Matched
+una,una,100,Matched
+unnao,unnao,100,Matched
+unokoti,,72,Unmatched
+uttara kannada,uttara kannada,100,Matched
+vadodara,doda,90,Matched
+varanasi,varanasi,100,Matched
+vidisha,vidisha,100,Matched
+vijayapura,,72,Unmatched
+wayanad,,83,Unmatched
+west district,,68,Unmatched
+west,imphal west,90,Matched
+west garo hills,west garo hills,100,Matched
+west khasi hills,west khasi hills,100,Matched
+west nimar,north west delhi,86,Matched
+west tripura,west tripura,100,Matched
+yadgir,yadgir,100,Matched
+yanam,,73,Unmatched
+baudh,,72,Unmatched
+lawngtlai,,68,Unmatched
+serchhip,serchhip,100,Matched
+kolasib,kolasib,100,Matched
+mamit,,72,Unmatched
+lunglei,,62,Unmatched
+jorhat,jorhat,100,Matched
+barpeta,barpeta,100,Matched
+chirang,chirang,100,Matched
+bongaigaon,bongaigaon,100,Matched
+nalbari,nalbari,100,Matched
+udalguri,udalguri,100,Matched
+kamrup metropolitan,kamrup metro.,90,Matched
+morigaon,morigaon,100,Matched
+dima hasao,,72,Unmatched
+sonitpur,shonitpur,94,Matched
+dhemaji,dhemaji,100,Matched
+sivasagar,sagar,90,Matched
+dibrugarh,dibrugarh,100,Matched
+golaghat,golaghat,100,Matched
+cachar,cachar,100,Matched
+karimganj,karimganj,100,Matched
+hailakandi,hailakandi,100,Matched
+mirpur,hamirpur,86,Matched
+muzaffarabad,,80,Unmatched
+punch,,72,Unmatched
+anantnag,anantnag,100,Matched
+baramula,baramula,100,Matched
+kathua,kathua,100,Matched
+udhampur,udhampur,100,Matched
+prayagraj,agra,90,Matched
+ribhoi,ri-bhoi,92,Matched
+south east,east garo hills,86,Matched
+south west khasi hills,west khasi hills,95,Matched
+south west garo hills,south garo hills,95,Matched
+north garo hills,south garo hills,88,Matched
+west jaintia hills,jaintia hills,95,Matched
+aizawl,,83,Unmatched
+dhubri,dhubri,100,Matched
+goalpara,goalpara,100,Matched
+badgam,badgam,100,Matched
+bandipore,,80,Unmatched
+ganderbal,ganderbal,100,Matched
+kulgam,kulgam,100,Matched
+kupwara,kupwara,100,Matched
+pulwama,pulwama,100,Matched
+rajouri,rajouri,100,Matched
+ramban,ramban,100,Matched
+reasi,reasi,100,Matched
+shupiyan,,80,Unmatched
+srinagar,srinagar,100,Matched
+leh,ladakh (leh),90,Matched
+kargil,,72,Unmatched
+kishtwar,,68,Unmatched
+doda,doda,100,Matched
+samba,samba,100,Matched
+charaideo,,82,Unmatched
+biswanath,,72,Unmatched
+majuli,,72,Unmatched
+hojai,,68,Unmatched
+south salmara mancachar,cachar,90,Matched
+karbi anglong,karbi anglong,100,Matched
+west karbi anglong,karbi anglong,95,Matched
+imphal east,imphal east,100,Matched
+jiribam,,60,Unmatched
+niwari,,67,Unmatched
+amreli,amreli,100,Matched
+diu,diu,100,Matched
+porbandar,porbandar,100,Matched
+rajkot,rajkot,100,Matched
+surendranagar,surendranagar,100,Matched
+botad,,68,Unmatched
+kheda,kheda,100,Matched
+mahesana,,80,Unmatched
+gandhinagar,gandhinagar,100,Matched
+patan,patan,100,Matched
+adilabad,adilabad,100,Matched
+ahmadnagar,ahmednagar,90,Matched
+akola,akola,100,Matched
+alipurduar,,77,Unmatched
+amravati,,80,Unmatched
+ambala,ambala,100,Matched
+amritsar,amritsar,100,Matched
+anjaw,anjaw,100,Matched
+araria,araria,100,Matched
+arwal,arwal,100,Matched
+aurangabad,aurangabad,100,Matched
+aurangabad,aurangabad,100,Matched
+banka,banka,100,Matched
+bankura,bankura,100,Matched
+purba bardhaman,,80,Unmatched
+barnala,barnala,100,Matched
+bathinda,bhatinda,88,Matched
+begusarai,begusarai,100,Matched
+kaimur (bhabua),bhabua,90,Matched
+bhagalpur,bhagalpur,100,Matched
+bhandara,bhandara,100,Matched
+bhiwani,bhiwani,100,Matched
+bhojpur,bhojpur,100,Matched
+bid,bidar,90,Matched
+birbhum,birbhum,100,Matched
+buldana,buldhana,93,Matched
+buxar,buxar,100,Matched
+chamoli,chamoli,100,Matched
+chandrapur,chandrapur,100,Matched
+changlang,changlang,100,Matched
+dakshin dinajpur,,82,Unmatched
+darbhanga,darbhanga,100,Matched
+darjiling,,84,Unmatched
+dhule,dhule,100,Matched
+upper dibang valley,dibang valley,95,Matched
+peren,,68,Unmatched
+east kameng,east kameng,100,Matched
+purba medinipur,,77,Unmatched
+faridabad,faridabad,100,Matched
+faridkot,faridkot,100,Matched
+fatehabad,fatehabad,100,Matched
+fatehgarh sahib,fatehgarh sahib,100,Matched
+fazilka,,60,Unmatched
+firozpur,,82,Unmatched
+gadchiroli,gadchiroli,100,Matched
+gaya,gaya,100,Matched
+gondiya,gondia,92,Matched
+gopalganj,gopalganj,100,Matched
+gurdaspur,gurdaspur,100,Matched
+gurugram,,68,Unmatched
+howrah,howrah,100,Matched
+hingoli,hingoli,100,Matched
+hisar,hisar,100,Matched
+hoshiarpur,hoshiarpur,100,Matched
+hooghly,hooghly,100,Matched
+hyderabad,hyderabad,100,Matched
+jehanabad,jahanabad,89,Matched
+jalandhar,jalandhar,100,Matched
+jalgaon,jalgaon,100,Matched
+jalna,jalna,100,Matched
+jalpaiguri,jalpaiguri,100,Matched
+jamui,jamui,100,Matched
+jhajjar,jhajjar,100,Matched
+jind,jind,100,Matched
+kaithal,kaithal,100,Matched
+kapurthala,kapurthala,100,Matched
+karimnagar,karimnagar,100,Matched
+karnal,karnal,100,Matched
+katihar,katihar,100,Matched
+khagaria,khagaria,100,Matched
+bhadradri kothagudem,,83,Unmatched
+kinnaur,kinnaur,100,Matched
+ukhrul,,62,Unmatched
+phek,phek,100,Matched
+kishanganj,kishanganj,100,Matched
+cooch behar,cooch behar,100,Matched
+kolhapur,kolhapur,100,Matched
+kolkata,kolkata,100,Matched
+kurukshetra,kurukshetra,100,Matched
+kurung kumey,,68,Unmatched
+lahul & spiti,lahaul & spiti,96,Matched
+lakhisarai,lakhisarai,100,Matched
+latur,latur,100,Matched
+lohit,lohit,100,Matched
+lower dibang valley,lower dibang valley,100,Matched
+ludhiana,ludhiana,100,Matched
+madhepura,madhepura,100,Matched
+madhubani,madhubani,100,Matched
+mahabubnagar,mahbubnagar,96,Matched
+mahrajganj,maharajganj,95,Matched
+mahendragarh,mahendragarh,100,Matched
+maldah,malda,91,Matched
+mansa,mansa,100,Matched
+siddipet,,72,Unmatched
+nuh,,72,Unmatched
+moga,moga,100,Matched
+wokha,wokha,100,Matched
+sri muktsar sahib,muktsar,90,Matched
+mumbai,mumbai city,90,Matched
+munger,,72,Unmatched
+murshidabad,murshidabad,100,Matched
+muzaffarpur,muzaffarpur,100,Matched
+nadia,nadia,100,Matched
+nagpur,nagpur,100,Matched
+nalanda,nalanda,100,Matched
+nalgonda,nalgonda,100,Matched
+nanded,nanded,100,Matched
+nandurbar,nandurbar,100,Matched
+nashik,nashik,100,Matched
+nawada,nawada,100,Matched
+shahid bhagat singh nagar,ambedkar nagar,86,Matched
+nizamabad,nizamabad,100,Matched
+north twenty four pargan*,north delhi,86,Matched
+osmanabad,osmanabad,100,Matched
+palghar,,77,Unmatched
+palwal,palwal,100,Matched
+panipat,panipat,100,Matched
+papum pare,,84,Unmatched
+parbhani,parbhani,100,Matched
+pashchim champaran,,80,Unmatched
+medinipur west,,68,Unmatched
+pathankot,,77,Unmatched
+patiala,patiala,100,Matched
+patna,patna,100,Matched
+pithoragarh,pithoragarh,100,Matched
+pune,pune,100,Matched
+purba champaran,,80,Unmatched
+purnia,,83,Unmatched
+puruliya,purulia,93,Matched
+raigarh,raigarh,100,Matched
+ranga reddy,rangareddy,95,Matched
+ratnagiri,ratnagiri,100,Matched
+rewari,rewari,100,Matched
+rohtak,rohtak,100,Matched
+rohtas,rohtas,100,Matched
+rupnagar,,80,Unmatched
+saharsa,saharsa,100,Matched
+samastipur,samastipur,100,Matched
+sangli,sangli,100,Matched
+sangrur,sangrur,100,Matched
+saran,saran,100,Matched
+sahibzada ajit singh nag*,,72,Unmatched
+satara,satara,100,Matched
+senapati,senapati,100,Matched
+sheikhpura,sheikhpura,100,Matched
+sheohar,sheohar,100,Matched
+sindhudurg,sindhudurg,100,Matched
+sirsa,sirsa,100,Matched
+sitamarhi,sitamarhi,100,Matched
+siwan,siwan,100,Matched
+solapur,sholapur,93,Matched
+sonipat,sonepat,86,Matched
+south twenty four pargana,south andaman,86,Matched
+mumbai suburban,mumbai suburban,100,Matched
+supaul,supaul,100,Matched
+tamenglong,,63,Unmatched
+tarn taran,tarn taran,100,Matched
+tawang,tawang,100,Matched
+thane,thane,100,Matched
+thoubal,thoubal,100,Matched
+tirap,tirap,100,Matched
+kamjong,,69,Unmatched
+upper siang,upper siang,100,Matched
+upper subansiri,upper subansiri,100,Matched
+uttar dinajpur,,82,Unmatched
+uttarkashi,uttarkashi,100,Matched
+vaishali,vaishali,100,Matched
+mulugu,,72,Unmatched
+wardha,wardha,100,Matched
+washim,washim,100,Matched
+west kameng,west kameng,100,Matched
+lower siang,lower dibang valley,86,Matched
+yamunanagar,yamuna nagar,96,Matched
+yavatmal,,68,Unmatched
+dimapur,dimapur,100,Matched
+kohima,kohima,100,Matched
+kiphire,kephire,86,Matched
+zunheboto,,68,Unmatched
+mokokchung,mokokchung,100,Matched
+mon,mon,100,Matched
+tuensang,,68,Unmatched
+jammu,jammu,100,Matched
+lower subansiri,,80,Unmatched
+longleng,,64,Unmatched
+noney,,68,Unmatched
+pherzawl,,77,Unmatched
+tengnoupal,,77,Unmatched
+kangpokpi,,72,Unmatched
+kakching,,67,Unmatched
+charki dadri,,72,Unmatched
+jhargram,,68,Unmatched
+paschim bardhaman,,80,Unmatched
+kalimpong,,68,Unmatched
+jogulamba gadwal,,76,Unmatched
+siang,east siang,90,Matched
+west siang,west siang,100,Matched
+shi yomi,,68,Unmatched
+lepa rada,,68,Unmatched
+pakke kessang,,72,Unmatched
+kra daadi,,72,Unmatched
+namsai,,77,Unmatched
+kamle,,76,Unmatched
+kumuram bheem asifabad,,69,Unmatched
+mancherial,,72,Unmatched
+nirmal,,62,Unmatched
+kamareddy,,74,Unmatched
+sangareddy,rangareddy,90,Matched
+nagarkurnool,kurnool,90,Matched
+wanaparthy,,68,Unmatched
+narayanpet,,80,Unmatched
+vikarabad,,72,Unmatched
+medchal malkajgiri,,81,Unmatched
+yadadri bhuvanagiri,,79,Unmatched
+suryapet,,77,Unmatched
+khammam,khammam,100,Matched
+mahabubabad,,75,Unmatched
+jangoan,,71,Unmatched
+warangal urban,warangal,90,Matched
+warangal rural,warangal,90,Matched
+jayashankar,,72,Unmatched
+peddapalli,,72,Unmatched
+jagitial,,72,Unmatched
+rajanna sircilla,,72,Unmatched
+medak,medak,100,Matched
+east siang,east siang,100,Matched
+longding,,60,Unmatched
+ariyalur,ariyalur,100,Matched
+chengalpattu,,69,Unmatched
+chennai,chennai,100,Matched
+coimbatore,coimbatore,100,Matched
+cuddalore,cuddalore,100,Matched
+dharmapuri,dharmapuri,100,Matched
+dindigul,dindigul,100,Matched
+erode,erode,100,Matched
+kallakurichchi,,72,Unmatched
+kanniyakumari,kanyakumari,92,Matched
+karur,karur,100,Matched
+madurai,madurai,100,Matched
+the nilgiris,nilgiris,90,Matched
+namakkal,namakkal,100,Matched
+perambalur,perambalur,100,Matched
+pudukkottai,pudukkottai,100,Matched
+ramanathapuram,ramanathapuram,100,Matched
+ranipet,,71,Unmatched
+salem,salem,100,Matched
+sivaganga,sivaganga,100,Matched
+theni,theni,100,Matched
+tenkasi,,68,Unmatched
+thanjavur,thanjavur,100,Matched
+thiruvarur,tiruvarur,95,Matched
+tiruchirappalli,,72,Unmatched
+tirunelveli,tirunelveli,100,Matched
+tiruppur,tiruppur,100,Matched
+tiruppattur,,84,Unmatched
+thiruvallur,tiruvallur,95,Matched
+tiruvannamalai,tiruvannamalai,100,Matched
+thoothukkudi,toothukudi,91,Matched
+vellore,vellore,100,Matched
+viluppuram,villupuram,90,Matched
+virudhunagar,virudhunagar,100,Matched
+krishnagiri,krishnagiri,100,Matched
+dadra & nagar haveli,dadara & nagar haveli,98,Matched
+hnahthial,,62,Unmatched
+saitual,,71,Unmatched
+noklak,,60,Unmatched
+malerkotla,,72,Unmatched
+nagapattinam,nagapattinam,100,Matched
+mayiladuthurai,,72,Unmatched
+vijayanagar,,82,Unmatched
+lakhimpur,lakhimpur,100,Matched
+darrang,,77,Unmatched
+champhai,,73,Unmatched
+khawzawl,,68,Unmatched
+kanchipuram,kancheepuram,87,Matched
+bajali,,77,Unmatched
+eastern west khasi hills,west khasi hills,90,Matched
+panchkula,panchkula,100,Matched
+alluri sitharama raju,,72,Unmatched
+anakapalli,,72,Unmatched
+anantpur,anantapur,94,Matched
+annamayya,,80,Unmatched
+bapatla,,71,Unmatched
+chittoor,chittoor,100,Matched
+east godavari,east godavari,100,Matched
+guntur,guntur,100,Matched
+kakinada,,80,Unmatched
+konaseema,,72,Unmatched
+krishna,krishna,100,Matched
+kurnool,kurnool,100,Matched
+nandyal,,77,Unmatched
+ntr,central delhi,90,Matched
+palnadu,,77,Unmatched
+eluru,,80,Unmatched
+prakasam,prakasam,100,Matched
+sri potti sriramulu nell*,sri ganganagar,86,Matched
+srikakulam,srikakulam,100,Matched
+tirupati,,72,Unmatched
+visakhapatnam,vishakhapatnam,96,Matched
+vizianagaram,vizianagaram,100,Matched
+west godavari,west godavari,100,Matched
+y.s.r.,,55,Unmatched
+sri sathya sai,,68,Unmatched
+parvathipuram manyam,,78,Unmatched
+sabar kantha,sabarkantha,96,Matched
